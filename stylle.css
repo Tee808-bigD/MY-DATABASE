@@ -4,29 +4,35 @@ table
     text-align: center;
     border-collapse: collapse;
     font: normal 2em arilal ,Helvetica, sans-serif;
-    background-color: solid #4e494d;
+    color: whitesmoke;
+    border-color: white;
     
 }
 tr
 {
     height: 15vh;
-    background-color:darkslategrey;
-    color: solid #4e494d;
+    background-color: solid #4e494d;
+    outline-color: white;
+    
+    
    
 }
 td
 {
     width: 15vh;
-    border: 5px solid #4e494d;
+    border: 5px;
+    background-color: dimgrey;
+    border-radius: 70PX;
 }
 #inputBox
 {
-    background-color: black;
+    background-color:dimgrey ;
+    border-radius: 70PX;
     text-align: end;
     width: 100%;
     height: 5vh;
     font-size: 1.2em;
-    color: darkorange;
+    color: whitesmoke;
     border: 0px;
 }
 .digitalButton {
@@ -39,9 +45,10 @@ td
 {
     background-color: darkgoldenrod;
      border-radius: 8px;
+    border-radius: 70PX;
 }
 .ACButton
 {
     background-color: black;
-     border-radius: 8px;
+     border-radius: 70px;
 }
