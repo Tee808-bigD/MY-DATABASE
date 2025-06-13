@@ -1,0 +1,47 @@
+table
+{
+    color: powderblue;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 2em arilal ,Helvetica, sans-serif;
+    background-color: solid #4e494d;
+    
+}
+tr
+{
+    height: 15vh;
+    background-color:darkslategrey;
+    color: solid #4e494d;
+   
+}
+td
+{
+    width: 15vh;
+    border: 5px solid #4e494d;
+}
+#inputBox
+{
+    background-color: black;
+    text-align: end;
+    width: 100%;
+    height: 5vh;
+    font-size: 1.2em;
+    color: darkorange;
+    border: 0px;
+}
+.digitalButton {
+                 background-color: darkslategrey;
+                  border-radius: 50px;
+                   
+                      
+               }
+.operaterButton
+{
+    background-color: darkgoldenrod;
+     border-radius: 8px;
+}
+.ACButton
+{
+    background-color: black;
+     border-radius: 8px;
+}
