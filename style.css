@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+:root{
+    --second-color:#808080;
+    --primary-color:#0094ff;
+    --black-color:#ffffff;
+}
+body {
+    background-position: center;
+    background-image: url('file:///C:\Users\Thando\Pictures\web-images\Screenshot_20240816_060141_VidMate.jpg');
+
+}
